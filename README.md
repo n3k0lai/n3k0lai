@@ -18,6 +18,8 @@ _,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.
 
 ~`'^`'~=-.,__,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.,__,.-=~'`^`'~=-.,__,.-=~'`^
 ```
+I am a remote developer from east coast USA. I am super passionate about third party tooling for twitch, and personal config management. In my free time I enjoy teaching hot yoga and learning Mandarin Chinese.
+
 follow me:
 - [twitter](https://twitter.com/n3k0lai)
 - [twitch](https://twitch.tv/n3k0lai)
